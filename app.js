@@ -4,7 +4,7 @@ const mongoose = require("mongoose"); // To connect with the database
 const cors = require("cors");
 
 const port = process.env.PORT || 2022;
-const host = "localhost";
+const host = "0.0.0.0";
 
 const cloudUrl =
   "mongodb+srv://second:mongo321@cluster0.khewj.mongodb.net/assignment4?retryWrites=true&w=majority";
