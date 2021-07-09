@@ -1,0 +1,26 @@
+getLocations *
+getMealTypes *
+getRestaurantsByLocation *
+filter +
+getRestaurantById *
+User SignUp
+User Login
+getMenuByRestaurants
+Payment API
+Store the Details of order
+Order Confirmation - Email/SMS
+
+
+
+
+
+Filter Api-
+
+1.Location
+2.MealType
+3.Cuisine
+4.Low-Cost
+5.High-Cost
+6.Sort
+7.Pagination
+
